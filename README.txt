@@ -1,3 +1,5 @@
+!!REPOSITORY NOT ACTIVE SINCE 2014 Dependabot alerts disabled!!
+
 ***************************************************************
 * Arduino PID Library - Version 1.1.0
  
